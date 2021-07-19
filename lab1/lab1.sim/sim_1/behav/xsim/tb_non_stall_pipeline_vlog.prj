@@ -1,0 +1,10 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../lab1.srcs/sources_1/new/non_stall_pipeline.v" \
+"../../../../lab1.srcs/sim_1/new/tb_non_stall_pipleline.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
