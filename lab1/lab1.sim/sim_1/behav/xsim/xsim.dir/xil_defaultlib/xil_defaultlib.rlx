@@ -3,6 +3,6 @@
 May 27 2020
 20:09:33
 D:/Code/vivado/cpu/lab1/lab1.sim/sim_1/behav/xsim/glbl.v,1590624368,verilog,,,,glbl,,,,,,,,
-D:/Code/vivado/cpu/lab1/lab1.srcs/sim_1/new/tb_non_stall_pipleline.v,1626699813,verilog,,,,simSimplePipeline,,,,,,,,
+D:/Code/vivado/cpu/lab1/lab1.srcs/sim_1/new/tb_non_stall_pipleline.v,1626700719,verilog,,,,simSimplePipeline,,,,,,,,
 D:/Code/vivado/cpu/lab1/lab1.srcs/sources_1/new/ALU.v,1626679083,verilog,,,,ALU,,,,,,,,
 D:/Code/vivado/cpu/lab1/lab1.srcs/sources_1/new/non_stall_pipeline.v,1626700716,verilog,,D:/Code/vivado/cpu/lab1/lab1.srcs/sim_1/new/tb_non_stall_pipleline.v,,simplePipeline,,,,,,,,
